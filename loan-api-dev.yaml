@@ -2,8 +2,6 @@ loan:
   property: Loan Dev Profile
 
 spring:
-  application:
-    name: loan-api
   datasource:
     url: jdbc:h2:mem:loan-api
     username: sa
